@@ -57,7 +57,7 @@ The testing process generally followed these steps:
 
 The complete assessment report is available in this repository:
 
-[crAPI Security Assessment Report]crAPI-Security-Assessment-Report.pdf
+[crAPI Security Assessment Report](crAPI-Security-Assessment-Report.pdf)
 
 The report contains the detailed testing process, findings, evidence, and observations from the assessment.
 
